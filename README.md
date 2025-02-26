@@ -15,7 +15,7 @@ La aplicación permite a los usuarios ingresar nombres de amigos y luego sortear
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](screenshot.png)
+![Captura de Pantalla](./assets/screenshot.png)
 
 ## Tecnologías Utilizadas
 
